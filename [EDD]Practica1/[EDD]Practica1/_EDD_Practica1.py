@@ -6,7 +6,7 @@ from xml.etree import ElementTree
 
    
 class inicio:
-
+ leido=False
  def leerArchivo(self,NombreArchivo,Direccion):
     #nombre_archivo="prueba.xml"
     nombre_archivo=NombreArchivo+".xml"
@@ -29,6 +29,7 @@ class inicio:
       #self.crearMatriz(x,y)
     #print "eje x: "+ojalaX.primero.dato
     #print "eje y: "+ojalaY.primero.dato
+    self.leido=True  
 
  def crear(self):
      nombre = raw_input("Nombre de usuario: ")
@@ -76,7 +77,11 @@ class inicio:
                  self.subMenuOpcion2()
 
       if opcion2==2:
+               if self.leido==True:
                  self.subMenuopcion2Parte2()
+               else:
+                  print "Falta leer archivo"
+                  self.subMenuOpcion2()
         
       if opcion2==3:
                  print "OPERAR MATRIZ\n"
