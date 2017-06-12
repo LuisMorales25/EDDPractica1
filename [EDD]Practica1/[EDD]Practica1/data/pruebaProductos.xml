@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PRODUCTOS>
+  <PRODUCTO>
+    <id_producto>2</id_producto>
+    <nombre_producto>lapicero BIC</nombre_producto>
+    <tipo_producto>COMUN</tipo_producto>
+    <descripcion>lapicero de punta fina</descripcion>
+    <ofertado>NO-OFERTADO</ofertado>
+    <multimedia>lapicero.png</multimedia>
+    <precio>0.25</precio>
+    <existencia>5000</existencia>
+   </PRODUCTO>
+   <PRODUCTO>
+    <id_producto>2</id_producto>
+    <nombre_producto>lapicero BIC2</nombre_producto>
+    <tipo_producto>COMUN</tipo_producto>
+    <descripcion>lapicero de punta fina</descripcion>
+    <ofertado>NO-OFERTADO</ofertado>
+    <multimedia>lapicero.png</multimedia>
+    <precio>0.25</precio>
+    <existencia>5000</existencia>
+   </PRODUCTO>
+   <PRODUCTO>
+    <id_producto>2</id_producto>
+    <nombre_producto>lapicero BIC3</nombre_producto>
+    <tipo_producto>COMUN</tipo_producto>
+    <descripcion>lapicero de punta fina</descripcion>
+    <ofertado>NO-OFERTADO</ofertado>
+    <multimedia>lapicero.png</multimedia>
+    <precio>0.25</precio>
+    <existencia>5000</existencia>
+   </PRODUCTO>
+   <PRODUCTO>
+    <id_producto>2</id_producto>
+    <nombre_producto>lapicero BIC4</nombre_producto>
+    <tipo_producto>COMUN</tipo_producto>
+    <descripcion>lapicero de punta fina</descripcion>
+    <ofertado>NO-OFERTADO</ofertado>
+    <multimedia>lapicero.png</multimedia>
+    <precio>0.25</precio>
+    <existencia>5000</existencia>
+   </PRODUCTO>
+</PRODUCTOS>
