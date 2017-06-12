@@ -502,25 +502,7 @@ class MatrizOrtogonal:
                     recorredorAux=recorredorAux.siguiente
                 ultima=aux
 
-"""user="luis"
-auxuser=user
-auxuser=cola()
-if auxuser.nombre("luis"):
-    auxuser.encolar("saber")
-    auxuser.encolar("saber2")
-    auxuser.recorrerCola()
-    print "funciono"
-else:
-    print "cagada"
-   
-   
-pruebaListaMatriz=ListaMatriz()
-ancho=input("ancho de la matriz: ")
-#pruebaListaMatriz.lista_Matriz(ancho)
-#pruebaListaMatriz.recorrerListaMatriz()
-alto=input("alto de la matriz: ")
-pruebaListaMatriz.alto_matriz(alto,ancho)
-#pruebaListaMatriz.insertar_dato_matriz(2,2)""" 
+
 ojalaY=cola()
 ojalaX=cola()
 colaFunciones=cola()
